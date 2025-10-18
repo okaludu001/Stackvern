@@ -1,0 +1,36 @@
+[25-Sep-2025 18:35:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/communi8/hbi.communitydevelopment.online/sign_up/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/communi8/hbi.communitydevelopment.online/sign_up/index.php on line 37
+[03-Oct-2025 03:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/hbiorgng/public_html/sign_up/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hbiorgng/public_html/sign_up/index.php on line 37
+[06-Oct-2025 11:07:00 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 13:40:04 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 13:42:35 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 13:44:28 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 13:45:11 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 13:51:06 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 13:52:04 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 13:55:36 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 14:18:12 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 14:20:09 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 14:47:44 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 15:06:42 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 15:14:04 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 15:52:38 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 16:18:53 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 16:50:11 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 18:18:53 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 18:31:14 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 19:07:30 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 20:25:45 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 20:44:04 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 20:46:07 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 20:48:51 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[06-Oct-2025 22:23:34 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[07-Oct-2025 03:15:10 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[10-Oct-2025 20:24:12 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[11-Oct-2025 17:26:37 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
+[13-Oct-2025 16:53:49 UTC] PHP Warning:  Undefined variable $error in /home/hbiorgng/public_html/sign_up/index.php on line 84
